@@ -4,7 +4,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "github_dark_dimed"
+let g:colors_name = "github"
 
 hi Cursor guibg=#2d333b guifg=#2d333b
 hi CursorColumn guibg=#2d333b
