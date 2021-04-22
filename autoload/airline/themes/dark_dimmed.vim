@@ -4,6 +4,8 @@ let s:N1 = [ '#22272e', '#539bf5', '', '' ]
 let s:N2 = [ '#768390', '#2d333b', '', '' ]
 let s:N3 = [ '#768390', '#2d333b', '', '' ]
 let g:airline#themes#dark_dimmed#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
+let g:airline#themes#dark_dimmed#palette.normal.airline_error = [ '#22272e', '#f47067', '', '' ,'bold']
+let g:airline#themes#dark_dimmed#palette.normal.airline_warning = [ '#22272e', '#daaa3f', '', '' , 'bold']
 
 let s:I1 = [ '#22272e', '#dcbdfb', '', '' ]
 let s:I2 = [ '#768390', '#2d333b', '', '' ]

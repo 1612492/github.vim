@@ -56,6 +56,17 @@ hi DiffDelete guibg=#22272e guifg=#f47067
 hi DiffChange guibg=#22272e guifg=#daaa3f
 hi PreProc guifg=#f47067
 
+" ale
+hi ALEErrorSign guibg=#22272e guifg=#f47067
+hi ALEWarningSign guibg=#22272e guifg=#daaa3f
+hi ALEError guibg=none guifg=none
+hi ALEWarning guibg=none guifg=none
+
+" coc.nvim
+hi CocErrorSign guibg=#22272e guifg=#f47067
+hi CocWarningSign guibg=#22272e guifg=#daaa3f
+
+" nvim-treesitter
 hi TSAnnotation guifg=#f47067
 hi TSAttribute guifg=#f47067
 hi TSBoolean guifg=#6cb6ff
