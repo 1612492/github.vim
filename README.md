@@ -63,3 +63,5 @@ set -g status-right "#[fg=#768390,bg=#2d333b] %Y-%m-%d  %H:%M "
 setw -g window-status-format "#[fg=#768390,bg=#2d333b] #W "
 setw -g window-status-current-format "#[fg=#22272e,bg=#539bf5,bold] #W "
 ```
+### Screenshot
+![image](https://user-images.githubusercontent.com/39008689/115750904-db1c9b00-a3c2-11eb-894d-a9579dc60a31.png)
