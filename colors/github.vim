@@ -59,8 +59,8 @@ hi PreProc guifg=#f47067
 " ale
 hi ALEErrorSign guibg=#22272e guifg=#f47067
 hi ALEWarningSign guibg=#22272e guifg=#daaa3f
-hi ALEError guibg=none guifg=none
-hi ALEWarning guibg=none guifg=none
+hi ALEError guibg=NONE guifg=NONE
+hi ALEWarning guibg=NONE guifg=NONE
 
 " coc.nvim
 hi CocErrorSign guibg=#22272e guifg=#f47067
